@@ -5,7 +5,7 @@
  * Write the name of your player and save this file
  * with the same name and .cc extension.
  */
-#define PLAYER_NAME Cerberus8         // Vaig a per menjar, i ataco si tinc adjacent enemic, despres zombie, despres menjar, si infectat, a pel mes proper
+#define PLAYER_NAME GuanyarProfesSenzill        // Vaig a per menjar, i ataco si tinc adjacent enemic, despres zombie, despres menjar, si infectat, a pel mes proper
 
 
 struct PLAYER_NAME : public Player {
